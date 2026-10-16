@@ -1,4 +1,5 @@
 Major goals 
+
 ‐‐--------‐------------
 1. Future proofing for minimal maintenance, durability, weather and pest resistance, etc.
 2. Doing it right via permits etc - impacts things like homeowners insurance
