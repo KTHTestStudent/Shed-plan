@@ -1,6 +1,6 @@
 Major goals 
 ‐‐--------‐------------
-1. Future proofing for minimal maintainence, durability, weather and pest resistance, etc.
+1. Future proofing for minimal maintenance, durability, weather and pest resistance, etc.
 2. Doing it right via permits etc - impacts things like homeowners insurance
 3. Plumbing, electrical, drainage, drywall, insulation, other core building stuff considering above
 4. Max hard budget cap is 5k with any and all overruns. Target 3.5k with 1.5k for stretch goals.
@@ -12,13 +12,13 @@ Needs
 
 1. Lawnmower storage
 2. Plumbing and drainage for shop sink
-3. Electrical
+3. Electrical (probably just a fuse replacement)
 4. AC and insulation
 5. Anything else?
 
 Wants:
 
-1. Full bath (shop sink, toilet, outdoor shower)
+1. Full bath (shop sink, toilet, outdoor shower) - FUTURE ADDITION, TOO EXPENSIVE / TIME INTENSIVE FOR NOW
 2. Sliding glass door
 3. Windows 
 4. Shelves and storage
