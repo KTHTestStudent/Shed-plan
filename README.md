@@ -17,11 +17,12 @@ Needs
 2. Plumbing and drainage for shop sink
 3. Electrical (probably just a fuse replacement)
 4. AC and insulation
-5. Anything else?
+5. Shop sink set up for full bath in future (see wants)
+6. Anything else?
 
 Wants:
 
-1. Full bath (shop sink, toilet, outdoor shower) - FUTURE ADDITION, TOO EXPENSIVE / TIME INTENSIVE FOR NOW
+1. Full bath (toilet, outdoor shower) - FUTURE ADDITION, TOO EXPENSIVE / TIME INTENSIVE FOR NOW
 2. Sliding glass door
 3. Windows 
 4. Shelves and storage
