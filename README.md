@@ -7,7 +7,9 @@ Major goals
 5. Looking nice 
 
 Core needs and wants:
+
 ‐‐----‐-------------------------------
+
 Needs
 
 1. Lawnmower storage
